@@ -1,7 +1,5 @@
 
- //Problem solving using 
-//-- conditional Statements like 
-//-- if, else and nested if & else .
+ 
 
 // console.log can print something on console 
 console.log("hello world");
